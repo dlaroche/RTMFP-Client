@@ -1,1 +1,1 @@
-AS3 RTMFP client for Cumulus Server and RTMP client for Red 5 (defaults if RTMFP error)
+AS3 implementation of an RTMFP client for Cumulus Server and RTMP client for Red 5 (defaults if RTMFP error)
